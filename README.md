@@ -2,7 +2,8 @@
 
 A lightweight collaborative document editor: create and format documents, import files, and share them with teammates as editors or viewers.
 
-**Live demo:** _add your deployment URL here_
+**Live demo:** https://ajaia-docs-iota-three.vercel.app  
+**Source code:** https://github.com/NwachukwuOfoma/ajaia-docs
 **Walkthrough video:** see `VIDEO_URL.txt`
 
 ## Test accounts

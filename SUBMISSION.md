@@ -1,6 +1,7 @@
 # Submission: Ajaia Docs
 
-**Live app:** REPLACE_WITH_DEPLOYMENT_URL
+**Live app:** https://ajaia-docs-iota-three.vercel.app  
+**Source code:** https://github.com/NwachukwuOfoma/ajaia-docs
 **Walkthrough video:** see `VIDEO_URL.txt`
 **Test accounts:** no passwords. Pick Alice, Bob or Carol on the sign-in page (`alice@ajaia.test`, `bob@ajaia.test`, `carol@ajaia.test`) and use **Switch user** to test sharing.
 
