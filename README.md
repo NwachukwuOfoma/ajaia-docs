@@ -44,7 +44,7 @@ There are no passwords. The sign-in page lists three seeded accounts; click one 
 
 ## Run locally
 
-Requires Node 20+.
+Requires Node 22.12 or newer (the test runner, Vitest 5, does not start on older versions).
 
 ```bash
 npm install
