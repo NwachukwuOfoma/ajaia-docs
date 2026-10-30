@@ -1,0 +1,10 @@
+Weekly sync - notes
+
+Attendees: Alice, Bob, Carol
+
+Decisions
+Ship the editor behind a feature flag first.
+Carol owns the onboarding copy.
+
+Follow-ups
+Bob to confirm the Turso plan limits by Thursday.
